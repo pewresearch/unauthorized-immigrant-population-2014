@@ -8,7 +8,9 @@ This data was used as part of the Pew Research Center report [Overall Number of 
 
 ##Notes
 All numbers are rounded independently and are not adjusted to sum to the total U.S. figure or other totals. Percents and Change calculated from unrounded numbers. See [Methodology](http://www.pewhispanic.org/2016/09/20/methodology-10/) for rounding rules. Significant changes are based on 90% confidence interval. 
+
 "N.A." - Not available. Base of percent is too small to produce ar eliable estimate. 
+
 "n.s." - Change is not statistically significant. 
 
 ##Source
