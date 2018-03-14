@@ -6,7 +6,7 @@ Pew Research Center estimates for 2014 based on augmented American Community Sur
 ## Where has this data been used?
 This data was used as part of the Pew Research Center report [Overall Number of U.S. Unauthorized Immigrants Holds Steady Since 2009](http://www.pewhispanic.org/2016/09/20/overall-number-of-u-s-unauthorized-immigrants-holds-steady-since-2009/) and [map](http://www.pewhispanic.org/interactives/unauthorized-immigrants/)
 
-## otes
+## Notes
 All numbers are rounded independently and are not adjusted to sum to the total U.S. figure or other totals. Percents and Change calculated from unrounded numbers. See [Methodology](http://www.pewhispanic.org/2016/09/20/methodology-10/) for rounding rules. Significant changes are based on 90% confidence interval. 
 
 "N.A." - Not available. Base of percent is too small to produce ar eliable estimate. 
